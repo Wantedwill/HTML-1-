@@ -2,7 +2,6 @@
 <html lang="pt-br">
  <head>
   <meta charset="UTF-8">
-   <title> Exemplo de página HTML </title>
   </head>
   <body>
     <header>
